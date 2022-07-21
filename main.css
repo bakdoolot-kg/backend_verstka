@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h6 {
+  padding: 10px 0 10px;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+mark {
+  background-color: rgb(246, 203, 253);
+}
+
+.wrapper {
+  max-width: 470px;
+}
+
+.title-block {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.350);
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  padding-top: 30px;
+}
+
+.content-block {
+  width: 420px;
+}
+
+.content-block a {
+  text-decoration: none;
+}
